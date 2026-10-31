@@ -64,11 +64,19 @@ Se realizaron pruebas manuales desde el navegador y 6 pruebas automaticas utiliz
 
 Todas las pruebas realizadas finalizaron correctamente.
 
+
 ### Estado de la version v1.1
 
-Correccion implementada y verificada.
+La correccion fue implementada y verificada mediante pruebas manuales y automaticas.
 
-Pendiente de integracion a la rama main y liberacion de la version estable v1.1.
+Se realizaron 6 pruebas automaticas, todas con resultados correctos.
+
+Los cambios fueron integrados a la rama main mediante la Pull Request #2.
+
+El Issue #1, correspondiente al Ticket #101, fue cerrado luego de completar la correccion.
+
+La version v1.1 se encuentra aprobada para su liberacion como nueva version estable.
+
 
 ### Responsable
 
